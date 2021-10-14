@@ -1,10 +1,10 @@
 <html>
-# Pagina-escuela
+# Pagina-escuela-gongora
  
 <body>
 
 <h1>
-Es una pagina creada en mis clases de tecnologia web 
+Soy Gongora Alvarez Laura Yassaret y eh creado esta pagina para mi clase de tecnologia web 
 
 </H1>
 
