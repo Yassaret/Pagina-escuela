@@ -4,7 +4,7 @@
 <body>
 
 <h1>
-Soy Gongora Alvarez Laura Yassaret y eh creado esta pagina para mi clase de tecnologia web 
+Soy Gongora Alvarez Laura Yassaret y he creado esta pagina para mi clase de tecnologia web 
 
 </H1>
 
